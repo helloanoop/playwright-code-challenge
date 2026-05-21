@@ -1,6 +1,6 @@
 # Playwright Code Challenge
 
-QA Automation interview challenge (~15 minutes) using [TodoMVC](https://demo.playwright.dev/todomvc).
+QA Automation interview challenge (~10 minutes) using [TodoMVC](https://demo.playwright.dev/todomvc).
 
 ## Setup
 
